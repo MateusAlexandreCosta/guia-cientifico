@@ -1,0 +1,332 @@
+[
+  {
+    "id": "v1-cap01",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 1",
+    "titulo": "Introdução à metodologia de pesquisa científica em informática na educação",
+    "autores": "Patricia A. Jaques; Mariano Pimentel; Sean Siqueira; Ig Ibert Bittencourt",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro1-cap1-Introducao.pdf",
+    "arquivo": "capitulos/v1-cap01-introducao-a-metodologia-de-pesquisa-cientifica-em-informati.pdf"
+  },
+  {
+    "id": "v1-cap02",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 2",
+    "titulo": "A metamorfose do processo de investigação científica",
+    "autores": "Marcos Elia",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2020/04/livro1_cap2.pdf",
+    "arquivo": "capitulos/v1-cap02-a-metamorfose-do-processo-de-investigacao-cientifica.pdf"
+  },
+  {
+    "id": "v1-cap03",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 3",
+    "titulo": "Estrutura do método científico: Por uma epistemologia da Informática na Educação",
+    "autores": "Alex Sandro Gomes; Claudia Roberta Araújo Gomes",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2019/05/livro1_cap3.pdf",
+    "arquivo": "capitulos/v1-cap03-estrutura-do-metodo-cientifico-por-uma-epistemologia-da-info.pdf"
+  },
+  {
+    "id": "v1-cap04",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 4",
+    "titulo": "Classificação dos Tipos de Pesquisa em Informática na Educação",
+    "autores": "Alex Sandro Gomes; Claudia Roberta Araújo Gomes",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2019/06/livro1_cap4.pdf",
+    "arquivo": "capitulos/v1-cap04-classificacao-dos-tipos-de-pesquisa-em-informatica-na-educac.pdf"
+  },
+  {
+    "id": "v1-cap05",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 5",
+    "titulo": "Design Science Research: fazendo pesquisas científicas rigorosas atreladas ao desenvolvimento de artefatos computacionais projetados para a educação",
+    "autores": "Mariano Pimentel; Denise Filippo; Flávia Maria Santoro",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/cap1_5.pdf",
+    "arquivo": "capitulos/v1-cap05-design-science-research-fazendo-pesquisas-cientificas-rigoro.pdf"
+  },
+  {
+    "id": "v1-cap06",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 6",
+    "titulo": "Elaboração da Pesquisa Científica em Informática na Educação",
+    "autores": "Patricia A. Jaques; Mariano Pimentel; Sean Siqueira",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/04/livro1-cap6-elaboracao-pesquisa.pdf",
+    "arquivo": "capitulos/v1-cap06-elaboracao-da-pesquisa-cientifica-em-informatica-na-educacao.pdf"
+  },
+  {
+    "id": "v1-cap07",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 7",
+    "titulo": "Submissão de projeto de pesquisa ao Comitê de Ética: da Plataforma Brasil ao Parecer Consubstanciado",
+    "autores": "Cátia de Azevedo Fronza",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2020/12/livro1_cap7.pdf",
+    "arquivo": "capitulos/v1-cap07-submissao-de-projeto-de-pesquisa-ao-comite-de-etica-da-plata.pdf"
+  },
+  {
+    "id": "v1-cap08",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 8",
+    "titulo": "Escrita Científica Dirigida Por Parágrafos: Noções Básicas para uma Escrita Clara e Concisa",
+    "autores": "Rafael de Amorim Silva; Duan P. C. Santos; Nizam Omar; Rosana T. V. Braga",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/cap1_8.pdf",
+    "arquivo": "capitulos/v1-cap08-escrita-cientifica-dirigida-por-paragrafos-nocoes-basicas-pa.pdf"
+  },
+  {
+    "id": "v1-cap09",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 9",
+    "titulo": "Escrita de uma Dissertação/Tese em Informática na Educação",
+    "autores": "Eliseo Reategui",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/cap1_9.pdf",
+    "arquivo": "capitulos/v1-cap09-escrita-de-uma-dissertacao-tese-em-informatica-na-educacao.pdf"
+  },
+  {
+    "id": "v1-cap10",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 10",
+    "titulo": "Escrita de um artigo científico em Informática na Educação",
+    "autores": "Fabiana Maris Versuti; Julia Zanetti Rocca; Mariano Pimentel; Patricia A. Jaques",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/04/livro1-cap10-escrita.pdf",
+    "arquivo": "capitulos/v1-cap10-escrita-de-um-artigo-cientifico-em-informatica-na-educacao.pdf"
+  },
+  {
+    "id": "v1-cap11",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 1, Cap. 11",
+    "titulo": "Apresentação oral de um trabalho científico em Informática na Educação",
+    "autores": "Eliseo Reategui",
+    "obra": "Vol. 1 — Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/11/cap1_11.pdf",
+    "arquivo": "capitulos/v1-cap11-apresentacao-oral-de-um-trabalho-cientifico-em-informatica-n.pdf"
+  },
+  {
+    "id": "v2-cap01",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 1",
+    "titulo": "Experience Sampling Method (ESM)",
+    "autores": "Rosemary Francisco",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/cap2_1.pdf",
+    "arquivo": "capitulos/v2-cap01-experience-sampling-method-esm.pdf"
+  },
+  {
+    "id": "v2-cap02",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 2",
+    "titulo": "Delineamentos Experimentais em Informática na Educação",
+    "autores": "Eduardo Aranha; Thiago Reis",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2019/11/livro2_cap2.pdf",
+    "arquivo": "capitulos/v2-cap02-delineamentos-experimentais-em-informatica-na-educacao.pdf"
+  },
+  {
+    "id": "v2-cap03",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 3",
+    "titulo": "Mapeamento Sistemático e Revisão Sistemática da Literatura em Informática na Educação",
+    "autores": "Diego Dermeval; Jorge A. P. de M. Coelho; Ig I. Bittencourt",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2019/11/livro2_cap3.pdf",
+    "arquivo": "capitulos/v2-cap03-mapeamento-sistematico-e-revisao-sistematica-da-literatura-e.pdf"
+  },
+  {
+    "id": "v2-cap04",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 4",
+    "titulo": "Estudo longitudinal em Pesquisas em Informática na Educação",
+    "autores": "Aline Campos Reis de Souza; Willian Luís de Oliveira",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2020/02/livro2_cap4.pdf",
+    "arquivo": "capitulos/v2-cap04-estudo-longitudinal-em-pesquisas-em-informatica-na-educacao.pdf"
+  },
+  {
+    "id": "v2-cap05",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 5",
+    "titulo": "Mensuração e testes em Informática na Educação",
+    "autores": "André Luís Alice Raabe; James Roberto Bombasar",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/12/livro2_cap5.pdf",
+    "arquivo": "capitulos/v2-cap05-mensuracao-e-testes-em-informatica-na-educacao.pdf"
+  },
+  {
+    "id": "v2-cap06",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 6",
+    "titulo": "Desenvolvimento de questionários e aplicação na pesquisa em Informática na Educação",
+    "autores": "Jorge A. P. M. Coelho; Gustavo H. S. Souza; Josmário Albuquerque",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/12/livro2_cap6.pdf",
+    "arquivo": "capitulos/v2-cap06-desenvolvimento-de-questionarios-e-aplicacao-na-pesquisa-em.pdf"
+  },
+  {
+    "id": "v2-cap07",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 7",
+    "titulo": "Coleta de dados através de Crowdsourcing em Pesquisas em Informática na Educação",
+    "autores": "Ujwal Gadiraju; Bernardo Pereira Nunes",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2019/11/livro2_cap7.pdf",
+    "arquivo": "capitulos/v2-cap07-coleta-de-dados-atraves-de-crowdsourcing-em-pesquisas-em-inf.pdf"
+  },
+  {
+    "id": "v2-cap08",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 8",
+    "titulo": "Teoria de Resposta ao Item",
+    "autores": "Ana Liz Souto O. Araújo; Jucelio S. Santos; Monilly Ramos A. Melo; Wilkerson L. Andrade; Dalton D. S. Guerreiro; Jorge Cesar A. de Figueiredo",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/cap2_8.pdf",
+    "arquivo": "capitulos/v2-cap08-teoria-de-resposta-ao-item.pdf"
+  },
+  {
+    "id": "v2-cap09",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 9",
+    "titulo": "Introdução à Estatística Descritiva para Pesquisas em Informática na Educação",
+    "autores": "Gilberto Sassi",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2019/05/livro2_cap9.pdf",
+    "arquivo": "capitulos/v2-cap09-introducao-a-estatistica-descritiva-para-pesquisas-em-inform.pdf"
+  },
+  {
+    "id": "v2-cap10",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 10",
+    "titulo": "Introdução à Inferência Estatística para Pesquisas em Informática na Educação",
+    "autores": "Gilberto Sassi",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2019/06/livro2_cap10.pdf",
+    "arquivo": "capitulos/v2-cap10-introducao-a-inferencia-estatistica-para-pesquisas-em-inform.pdf"
+  },
+  {
+    "id": "v2-cap11",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 11",
+    "titulo": "Modelos de Regressão aplicados em pesquisas em Informática na Educação",
+    "autores": "Danilo Alvares",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/cap2_11.pdf",
+    "arquivo": "capitulos/v2-cap11-modelos-de-regressao-aplicados-em-pesquisas-em-informatica-n.pdf"
+  },
+  {
+    "id": "v2-cap12",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 2, Cap. 12",
+    "titulo": "Mineração de dados educacionais: avaliação e interpretação de modelos de classificação",
+    "autores": "Cristian Cechinel; Sandro da Silva Camargo",
+    "obra": "Vol. 2 — Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2019/11/livro2_cap12.pdf",
+    "arquivo": "capitulos/v2-cap12-mineracao-de-dados-educacionais-avaliacao-e-interpretacao-de.pdf"
+  },
+  {
+    "id": "v3-cap01",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 1",
+    "titulo": "Estudo de Caso como método de pesquisa em Informática na Educação",
+    "autores": "Jose Aires de Castro Filho; Raquel Santiago Freire; Dennys Leite Maia",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap1_EstudoDeCasoV2.pdf",
+    "arquivo": "capitulos/v3-cap01-estudo-de-caso-como-metodo-de-pesquisa-em-informatica-na-edu.pdf"
+  },
+  {
+    "id": "v3-cap02",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 2",
+    "titulo": "Pesquisa-ação: possibilidades para a Informática Educativa",
+    "autores": "Denise Filippo; Gianna Roque; Stella Pedrosa",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap2Pesquisao_acao.pdf",
+    "arquivo": "capitulos/v3-cap02-pesquisa-acao-possibilidades-para-a-informatica-educativa.pdf"
+  },
+  {
+    "id": "v3-cap03",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 3",
+    "titulo": "Materialismo Histórico Dialético em pesquisas de Informática na Educação",
+    "autores": "Renata Luiza da Costa; Maria Aparecida R. de Souza; Alcides Hermes Thereza Júnior",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap3_MHD.pdf",
+    "arquivo": "capitulos/v3-cap03-materialismo-historico-dialetico-em-pesquisas-de-informatica.pdf"
+  },
+  {
+    "id": "v3-cap04",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 4",
+    "titulo": "A entrevista como instrumento de pesquisa científica em Informática na Educação: planejamento, execução e análise",
+    "autores": "Carla Leitão",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap4_Entrevista.pdf",
+    "arquivo": "capitulos/v3-cap04-a-entrevista-como-instrumento-de-pesquisa-cientifica-em-info.pdf"
+  },
+  {
+    "id": "v3-cap05",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 5",
+    "titulo": "Grupo Focal em Informática na Educação: diálogo, conflito, consenso?",
+    "autores": "Eloiza da Silva Gomes de Oliveira; Patricia Ribeiro Vasconcellos",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap5_GrupoFocal.pdf",
+    "arquivo": "capitulos/v3-cap05-grupo-focal-em-informatica-na-educacao-dialogo-conflito-cons.pdf"
+  },
+  {
+    "id": "v3-cap06",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 6",
+    "titulo": "As oficinas como lócus de encontro com o outro: uma abordagem histórico-cultural",
+    "autores": "Helenice Mirabelli Cassino Ferreira; Dilton Ribeiro Couto Junior; Maria Luiza Magalhães Bastos Oswald",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap6_Oficinas.pdf",
+    "arquivo": "capitulos/v3-cap06-as-oficinas-como-locus-de-encontro-com-o-outro-uma-abordagem.pdf"
+  },
+  {
+    "id": "v3-cap07",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 7",
+    "titulo": "Análise dialógica do discurso em pesquisas na área da informática na educação",
+    "autores": "Elmara Pereira de Souza; Claudia Pinto Pereira; Rosângela Silveira Garcia",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap7_AnaliseDiscursoV2.pdf",
+    "arquivo": "capitulos/v3-cap07-analise-dialogica-do-discurso-em-pesquisas-na-area-da-inform.pdf"
+  },
+  {
+    "id": "v3-cap08",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 8",
+    "titulo": "Análise hermenêutica: compreendendo a interpretação…",
+    "autores": "Leonardo Rangel dos Reis; Jocelma Almeida Rios; Adriana Vieira dos Santos",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap8_AnaliseHermeneutica.pdf",
+    "arquivo": "capitulos/v3-cap08-analise-hermeneutica-compreendendo-a-interpretacao.pdf"
+  },
+  {
+    "id": "v3-cap09",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 9",
+    "titulo": "Análise de Conteúdo: como podemos analisar dados no campo da educação e tecnologias",
+    "autores": "Deise Juliana Francisco; Edjane Mikaelly Silva de Azevêdo; Adilson Rocha Ferreira; Alexandre Rodrigues Caitano",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/05/livro3_cap9_AnaliseConteudo.pdf",
+    "arquivo": "capitulos/v3-cap09-analise-de-conteudo-como-podemos-analisar-dados-no-campo-da.pdf"
+  },
+  {
+    "id": "v3-cap10",
+    "colecao": "Metodologia de Pesquisa Científica em Informática na Educação (CEIE/SBC)",
+    "rotulo": "Vol. 3, Cap. 10",
+    "titulo": "Ética e pesquisa em Cibercultura: reflexões sobre o tema",
+    "autores": "Rachel Capucho Colacique; Joelma Fabiane Ferreira Almeida",
+    "obra": "Vol. 3 — Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2024/10/livro3_cap10_EticaPesquisaQualitativa.pdf",
+    "arquivo": "capitulos/v3-cap10-etica-e-pesquisa-em-cibercultura-reflexoes-sobre-o-tema.pdf"
+  }
+]

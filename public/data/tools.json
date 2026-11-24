@@ -1,0 +1,130 @@
+[
+  {
+    "id": "scispace",
+    "name": "SciSpace",
+    "category": "Literatura",
+    "description": "Busca e leitura assistida de artigos científicos.",
+    "url": "https://scispace.com/",
+    "responsible": "SciSpace"
+  },
+  {
+    "id": "connected",
+    "name": "Connected Papers",
+    "category": "Literatura",
+    "description": "Mapa visual de artigos relacionados a uma publicação de referência.",
+    "url": "https://www.connectedpapers.com/",
+    "responsible": "Connected Papers"
+  },
+  {
+    "id": "parsifal",
+    "name": "Parsifal",
+    "category": "Revisão sistemática",
+    "description": "Planejamento e acompanhamento de revisões sistemáticas.",
+    "url": "https://www.parsifal.com.br/",
+    "responsible": "Consultar o site oficial"
+  },
+  {
+    "id": "rayyan",
+    "name": "Rayyan",
+    "category": "Revisão sistemática",
+    "description": "Triagem e organização de estudos para revisões.",
+    "url": "https://www.rayyan.ai/",
+    "responsible": "Rayyan"
+  },
+  {
+    "id": "zotero",
+    "name": "Zotero",
+    "category": "Referências",
+    "description": "Gerenciamento de referências, PDFs e bibliografias.",
+    "url": "https://www.zotero.org/",
+    "responsible": "Corporation for Digital Scholarship / comunidade Zotero"
+  },
+  {
+    "id": "mendeley",
+    "name": "Mendeley",
+    "category": "Referências",
+    "description": "Gerenciamento de referências e organização de artigos.",
+    "url": "https://www.mendeley.com/",
+    "responsible": "Elsevier"
+  },
+  {
+    "id": "overleaf",
+    "name": "Overleaf",
+    "category": "Escrita científica",
+    "description": "Editor colaborativo de documentos em LaTeX.",
+    "url": "https://www.overleaf.com/",
+    "responsible": "Overleaf"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "category": "Design e prototipação",
+    "description": "Criação de interfaces, protótipos e elementos gráficos.",
+    "url": "https://www.figma.com/",
+    "responsible": "Figma"
+  },
+  {
+    "id": "drawio",
+    "name": "draw.io",
+    "category": "Design e prototipação",
+    "description": "Criação de diagramas e fluxogramas.",
+    "url": "https://www.drawio.com/",
+    "responsible": "Consultar o site oficial"
+  },
+  {
+    "id": "likert",
+    "name": "Likertplot",
+    "category": "Visualização",
+    "description": "Gráficos de distribuição de respostas em escalas Likert.",
+    "url": "https://likertplot.com/create",
+    "responsible": "Likertplot"
+  },
+  {
+    "id": "jasp",
+    "name": "JASP",
+    "category": "Estatística",
+    "description": "Análises estatísticas com interface gráfica.",
+    "url": "https://jasp-stats.org/",
+    "responsible": "JASP Team"
+  },
+  {
+    "id": "jamovi",
+    "name": "jamovi",
+    "category": "Estatística",
+    "description": "Software de análise estatística com interface gráfica.",
+    "url": "https://www.jamovi.org/",
+    "responsible": "jamovi project"
+  },
+  {
+    "id": "colab",
+    "name": "Google Colab",
+    "category": "Programação",
+    "description": "Notebooks Python executados no navegador.",
+    "url": "https://colab.research.google.com/",
+    "responsible": "Google"
+  },
+  {
+    "id": "vosviewer",
+    "name": "VOSviewer",
+    "category": "Bibliometria",
+    "description": "Construção e exploração de redes bibliométricas.",
+    "url": "https://www.vosviewer.com/",
+    "responsible": "Centre for Science and Technology Studies (CWTS), Leiden University"
+  },
+  {
+    "id": "openrefine",
+    "name": "OpenRefine",
+    "category": "Tratamento de dados",
+    "description": "Limpeza e transformação de dados tabulares.",
+    "url": "https://openrefine.org/",
+    "responsible": "Consultar o site oficial"
+  },
+  {
+    "id": "plotly",
+    "name": "Plotly",
+    "category": "Visualização",
+    "description": "Biblioteca para gráficos interativos e visualização de dados.",
+    "url": "https://plotly.com/",
+    "responsible": "Consultar o site oficial"
+  }
+]

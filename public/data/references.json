@@ -1,0 +1,74 @@
+[
+  {
+    "id": "gil",
+    "title": "Métodos e técnicas de pesquisa social",
+    "authors": "Antonio Carlos Gil",
+    "category": "Métodos gerais",
+    "description": "Obra de referência sobre planejamento, delineamento e técnicas de pesquisa social.",
+    "url": "https://www.kufunda.net/publicdocs/METODOS%20E%20TECNICAS%20DE%20PESQUISA%20SOCIAL%20-%20ANTONIO%20GIL.pdf",
+    "year": "1989"
+  },
+  {
+    "id": "creswell",
+    "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+    "authors": "John W. Creswell; J. David Creswell",
+    "category": "Métodos gerais",
+    "description": "Abordagens qualitativa, quantitativa e de métodos mistos.",
+    "url": "",
+    "year": ""
+  },
+  {
+    "id": "kitchenham",
+    "title": "Guidelines for Performing Systematic Literature Reviews in Software Engineering",
+    "authors": "Barbara Kitchenham; Stuart Charters",
+    "category": "Revisões da literatura",
+    "description": "Diretrizes para planejamento, condução e relato de revisões sistemáticas em Engenharia de Software.",
+    "url": "",
+    "year": ""
+  },
+  {
+    "id": "petersen",
+    "title": "Systematic Mapping Studies in Software Engineering",
+    "authors": "Kai Petersen; Robert Feldt; Shahid Mujtaba; Michael Mattsson",
+    "category": "Revisões da literatura",
+    "description": "Procedimentos de mapeamento sistemático e classificação de estudos.",
+    "url": "",
+    "year": ""
+  },
+  {
+    "id": "cartaxo",
+    "title": "Rapid Reviews in Software Engineering",
+    "authors": "Bruno Cartaxo; Gustavo Pinto; Sergio Soares",
+    "category": "Revisões da literatura",
+    "description": "Revisões rápidas voltadas à produção de evidências para problemas práticos.",
+    "url": "https://doi.org/10.1007/978-3-030-32489-6_13",
+    "year": "2020"
+  },
+  {
+    "id": "mussi",
+    "title": "Pressupostos para a elaboração de relato de experiência como conhecimento científico",
+    "authors": "Ricardo Fraklin de Freitas Mussi; Fabio Fernandes Flores; Cláudio Bispo de Almeida",
+    "category": "Relato de experiência",
+    "description": "Pressupostos teóricos e estruturantes para a elaboração de relatos de experiência científicos.",
+    "url": "https://periodicos2.uesb.br/praxis/article/view/9010",
+    "year": "2021"
+  },
+  {
+    "id": "pimentel",
+    "title": "Design Science Research: fazendo pesquisas científicas rigorosas atreladas ao desenvolvimento de artefatos computacionais projetados para a educação",
+    "authors": "Mariano Pimentel; Denise Filippo; Flávia Maria Santoro",
+    "category": "Informática na Educação",
+    "description": "Capítulo sobre Design Science Research no contexto de artefatos educacionais.",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "year": ""
+  },
+  {
+    "id": "dermeval",
+    "title": "Mapeamento Sistemático e Revisão Sistemática da Literatura em Informática na Educação",
+    "authors": "Diego Dermeval; Jorge A. P. de M. Coelho; Ig I. Bittencourt",
+    "category": "Informática na Educação",
+    "description": "Conceitos e diretrizes para estudos secundários em Informática na Educação.",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "year": ""
+  }
+]

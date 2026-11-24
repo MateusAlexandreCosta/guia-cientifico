@@ -1,0 +1,278 @@
+[
+  {
+    "id": "v1",
+    "title": "Concepção de Pesquisa",
+    "number": 1,
+    "editors": "Patricia Jaques; Mariano Pimentel; Sean Siqueira; Ig Ibert Bittencourt",
+    "isbn": "978-85-7669-493-9",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "cover": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/portfolio-1-2.jpg",
+    "description": "Fundamentos científicos, elaboração de projetos, ética, escrita e divulgação da pesquisa.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Introdução à metodologia de pesquisa científica em informática na educação",
+        "authors": "Patricia A. Jaques; Mariano Pimentel; Sean Siqueira; Ig Ibert Bittencourt",
+        "section": "Introdução à pesquisa científica",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 2,
+        "title": "A metamorfose do processo de investigação científica",
+        "authors": "Marcos Elia",
+        "section": "Introdução à pesquisa científica",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 3,
+        "title": "Estrutura do método científico: Por uma epistemologia da Informática na Educação",
+        "authors": "Alex Sandro Gomes; Claudia Roberta Araújo Gomes",
+        "section": "Introdução à pesquisa científica",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 4,
+        "title": "Classificação dos Tipos de Pesquisa em Informática na Educação",
+        "authors": "Alex Sandro Gomes; Claudia Roberta Araújo Gomes",
+        "section": "Introdução à pesquisa científica",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 5,
+        "title": "Design Science Research: fazendo pesquisas científicas rigorosas atreladas ao desenvolvimento de artefatos computacionais projetados para a educação",
+        "authors": "Mariano Pimentel; Denise Filippo; Flávia Maria Santoro",
+        "section": "Introdução à pesquisa científica",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 6,
+        "title": "Elaboração da Pesquisa Científica em Informática na Educação",
+        "authors": "Patricia A. Jaques; Mariano Pimentel; Sean Siqueira",
+        "section": "Elaboração da pesquisa",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 7,
+        "title": "Submissão de projeto de pesquisa ao Comitê de Ética: da Plataforma Brasil ao Parecer Consubstanciado",
+        "authors": "Cátia de Azevedo Fronza",
+        "section": "Elaboração da pesquisa",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 8,
+        "title": "Escrita Científica Dirigida Por Parágrafos: Noções Básicas para uma Escrita Clara e Concisa",
+        "authors": "Rafael de Amorim Silva; Duan P. C. Santos; Nizam Omar; Rosana T. V. Braga",
+        "section": "Relato e divulgação da pesquisa",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 9,
+        "title": "Escrita de uma Dissertação/Tese em Informática na Educação",
+        "authors": "Eliseo Reategui",
+        "section": "Relato e divulgação da pesquisa",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 10,
+        "title": "Escrita de um artigo científico em Informática na Educação",
+        "authors": "Fabiana Maris Versuti; Julia Zanetti Rocca; Mariano Pimentel; Patricia A. Jaques",
+        "section": "Relato e divulgação da pesquisa",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 11,
+        "title": "Apresentação oral de um trabalho científico em Informática na Educação",
+        "authors": "Eliseo Reategui",
+        "section": "Relato e divulgação da pesquisa",
+        "accessUrl": "https://www.google.com"
+      }
+    ],
+    "accessUrl": "",
+    "downloadUrl": "",
+    "sourceName": "CEIE/SBC — Metodologia de Pesquisa Científica em Informática na Educação"
+  },
+  {
+    "id": "v2",
+    "title": "Abordagem Quantitativa",
+    "number": 2,
+    "editors": "Patricia Jaques; Mariano Pimentel; Sean Siqueira; Ig Ibert Bittencourt",
+    "isbn": "978-85-7669-494-6",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "cover": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/portfolio-2-2.jpg",
+    "description": "Experimentos, revisões, questionários, mensuração, estatística, regressão e análise de dados.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Experience Sampling Method (ESM)",
+        "authors": "Rosemary Francisco",
+        "section": "Métodos de pesquisa quantitativos",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 2,
+        "title": "Delineamentos Experimentais em Informática na Educação",
+        "authors": "Eduardo Aranha; Thiago Reis",
+        "section": "Métodos de pesquisa quantitativos",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 3,
+        "title": "Mapeamento Sistemático e Revisão Sistemática da Literatura em Informática na Educação",
+        "authors": "Diego Dermeval; Jorge A. P. de M. Coelho; Ig I. Bittencourt",
+        "section": "Métodos de pesquisa quantitativos",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 4,
+        "title": "Estudo longitudinal em Pesquisas em Informática na Educação",
+        "authors": "Aline Campos Reis de Souza; Willian Luís de Oliveira",
+        "section": "Métodos de pesquisa quantitativos",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 5,
+        "title": "Mensuração e testes em Informática na Educação",
+        "authors": "André Luís Alice Raabe; James Roberto Bombasar",
+        "section": "Técnicas de coleta e produção de dados",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 6,
+        "title": "Desenvolvimento de questionários e aplicação na pesquisa em Informática na Educação",
+        "authors": "Jorge A. P. M. Coelho; Gustavo H. S. Souza; Josmário Albuquerque",
+        "section": "Técnicas de coleta e produção de dados",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 7,
+        "title": "Coleta de dados através de Crowdsourcing em Pesquisas em Informática na Educação",
+        "authors": "Ujwal Gadiraju; Bernardo Pereira Nunes",
+        "section": "Técnicas de coleta e produção de dados",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 8,
+        "title": "Teoria de Resposta ao Item",
+        "authors": "Ana Liz Souto O. Araújo; Jucelio S. Santos; Monilly Ramos A. Melo; Wilkerson L. Andrade; Dalton D. S. Guerreiro; Jorge Cesar A. de Figueiredo",
+        "section": "Técnicas de coleta e produção de dados",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 9,
+        "title": "Introdução à Estatística Descritiva para Pesquisas em Informática na Educação",
+        "authors": "Gilberto Sassi",
+        "section": "Análise, interpretação e visualização de dados",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 10,
+        "title": "Introdução à Inferência Estatística para Pesquisas em Informática na Educação",
+        "authors": "Gilberto Sassi",
+        "section": "Análise, interpretação e visualização de dados",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 11,
+        "title": "Modelos de Regressão aplicados em pesquisas em Informática na Educação",
+        "authors": "Danilo Alvares",
+        "section": "Análise, interpretação e visualização de dados",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 12,
+        "title": "Mineração de dados educacionais: avaliação e interpretação de modelos de classificação",
+        "authors": "Cristian Cechinel; Sandro da Silva Camargo",
+        "section": "Análise, interpretação e visualização de dados",
+        "accessUrl": "https://www.google.com"
+      }
+    ],
+    "accessUrl": "",
+    "downloadUrl": "",
+    "sourceName": "CEIE/SBC — Metodologia de Pesquisa Científica em Informática na Educação"
+  },
+  {
+    "id": "v3",
+    "title": "Abordagem Qualitativa",
+    "number": 3,
+    "editors": "Mariano Pimentel; Edméa Oliveira dos Santos",
+    "isbn": null,
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "cover": "https://ceie.sbc.org.br/metodologia/wp-content/uploads/2018/10/portfolio-3-2.jpg",
+    "description": "Estudo de caso, pesquisa-ação, entrevistas, grupos focais e interpretação de dados qualitativos.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Estudo de Caso como método de pesquisa em Informática na Educação",
+        "authors": "Jose Aires de Castro Filho; Raquel Santiago Freire; Dennys Leite Maia",
+        "section": "Métodos de pesquisa qualitativa",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 2,
+        "title": "Pesquisa-ação: possibilidades para a Informática Educativa",
+        "authors": "Denise Filippo; Gianna Roque; Stella Pedrosa",
+        "section": "Métodos de pesquisa qualitativa",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 3,
+        "title": "Materialismo Histórico Dialético em pesquisas de Informática na Educação",
+        "authors": "Renata Luiza da Costa; Maria Aparecida R. de Souza; Alcides Hermes Thereza Júnior",
+        "section": "Métodos de pesquisa qualitativa",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 4,
+        "title": "A entrevista como instrumento de pesquisa científica em Informática na Educação: planejamento, execução e análise",
+        "authors": "Carla Leitão",
+        "section": "Técnicas de produção de dados qualitativos",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 5,
+        "title": "Grupo Focal em Informática na Educação: diálogo, conflito, consenso?",
+        "authors": "Eloiza da Silva Gomes de Oliveira; Patricia Ribeiro Vasconcellos",
+        "section": "Técnicas de produção de dados qualitativos",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 6,
+        "title": "As oficinas como lócus de encontro com o outro: uma abordagem histórico-cultural",
+        "authors": "Helenice Mirabelli Cassino Ferreira; Dilton Ribeiro Couto Junior; Maria Luiza Magalhães Bastos Oswald",
+        "section": "Técnicas de produção de dados qualitativos",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 7,
+        "title": "Análise dialógica do discurso em pesquisas na área da informática na educação",
+        "authors": "Elmara Pereira de Souza; Claudia Pinto Pereira; Rosângela Silveira Garcia",
+        "section": "Técnicas de análise e interpretação",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 8,
+        "title": "Análise hermenêutica: compreendendo a interpretação…",
+        "authors": "Leonardo Rangel dos Reis; Jocelma Almeida Rios; Adriana Vieira dos Santos",
+        "section": "Técnicas de análise e interpretação",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 9,
+        "title": "Análise de Conteúdo: como podemos analisar dados no campo da educação e tecnologias",
+        "authors": "Deise Juliana Francisco; Edjane Mikaelly Silva de Azevêdo; Adilson Rocha Ferreira; Alexandre Rodrigues Caitano",
+        "section": "Técnicas de análise e interpretação",
+        "accessUrl": "https://www.google.com"
+      },
+      {
+        "number": 10,
+        "title": "Ética e pesquisa em Cibercultura: reflexões sobre o tema",
+        "authors": "Rachel Capucho Colacique; Joelma Fabiane Ferreira Almeida",
+        "section": "Princípios da pesquisa qualitativa",
+        "accessUrl": "https://www.google.com"
+      }
+    ],
+    "accessUrl": "",
+    "downloadUrl": "",
+    "sourceName": "CEIE/SBC — Metodologia de Pesquisa Científica em Informática na Educação"
+  }
+]

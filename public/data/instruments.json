@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sus",
+    "short": "SUS",
+    "name": "System Usability Scale",
+    "category": "Usabilidade",
+    "description": "Instrumento de 10 itens para avaliar a usabilidade percebida de sistemas e produtos interativos.",
+    "authors": "John Brooke",
+    "year": "1986 - Adaptado por Myrela Barros (2022)",
+    "url": "https://brasil.uxdesign.cc/guia-atualizado-de-como-utilizar-a-escala-sus-system-usability-scale-no-seu-produto-ab773f29c522"
+  },
+  {
+    "id": "ueq",
+    "short": "UEQ",
+    "name": "User Experience Questionnaire",
+    "category": "Experiência do usuário",
+    "description": "Instrumento de 26 itens que avalia seis dimensões da experiência do usuário.",
+    "authors": "Bettina Laugwitz; Theo Held; Martin Schrepp",
+    "year": "2008",
+    "url": "https://www.ueq-online.org/"
+  },
+  {
+    "id": "ueqs",
+    "short": "UEQ-S",
+    "name": "User Experience Questionnaire — Short",
+    "category": "Experiência do usuário",
+    "description": "Versão breve de oito itens, com qualidade pragmática e hedônica.",
+    "authors": "Martin Schrepp; Andreas Hinderks; Jörg Thomaschewski",
+    "year": "2017",
+    "url": "https://www.ueq-online.org/"
+  },
+  {
+    "id": "tam",
+    "short": "TAM",
+    "name": "Technology Acceptance Model",
+    "category": "Aceitação tecnológica",
+    "description": "Modelo teórico de aceitação de tecnologia, frequentemente operacionalizado por escalas de percepção.",
+    "authors": "Fred D. Davis",
+    "year": "1989",
+    "url": "https://doi.org/10.2307/249008"
+  },
+  {
+    "id": "nasatlx",
+    "short": "NASA-TLX",
+    "name": "NASA Task Load Index",
+    "category": "Carga de trabalho",
+    "description": "Instrumento multidimensional de carga de trabalho percebida.",
+    "authors": "Sandra G. Hart; Lowell E. Staveland",
+    "year": "1988",
+    "url": "https://humansystems.arc.nasa.gov/groups/tlx/"
+  },
+  {
+    "id": "attrakdiff",
+    "short": "AttrakDiff",
+    "name": "AttrakDiff",
+    "category": "Experiência do usuário",
+    "description": "Questionário de avaliação de qualidade pragmática e hedônica de produtos interativos.",
+    "authors": "Marc Hassenzahl; Michael Burmester; Franz Koller",
+    "year": "2003",
+    "url": "https://www.attrakdiff.de/"
+  }
+]

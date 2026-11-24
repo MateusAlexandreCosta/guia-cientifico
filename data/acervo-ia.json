@@ -1,0 +1,548 @@
+[
+  {
+    "id": "instrumento-sus",
+    "tipo": "instrumento",
+    "titulo": "System Usability Scale",
+    "descricao": "Instrumento de 10 itens para avaliar a usabilidade percebida de sistemas e produtos interativos.",
+    "url": "https://brasil.uxdesign.cc/guia-atualizado-de-como-utilizar-a-escala-sus-system-usability-scale-no-seu-produto-ab773f29c522",
+    "autores": "John Brooke",
+    "categoria": "Usabilidade"
+  },
+  {
+    "id": "instrumento-ueq",
+    "tipo": "instrumento",
+    "titulo": "User Experience Questionnaire",
+    "descricao": "Instrumento de 26 itens que avalia seis dimensões da experiência do usuário.",
+    "url": "https://www.ueq-online.org/",
+    "autores": "Bettina Laugwitz; Theo Held; Martin Schrepp",
+    "categoria": "Experiência do usuário"
+  },
+  {
+    "id": "instrumento-ueqs",
+    "tipo": "instrumento",
+    "titulo": "User Experience Questionnaire — Short",
+    "descricao": "Versão breve de oito itens, com qualidade pragmática e hedônica.",
+    "url": "https://www.ueq-online.org/",
+    "autores": "Martin Schrepp; Andreas Hinderks; Jörg Thomaschewski",
+    "categoria": "Experiência do usuário"
+  },
+  {
+    "id": "instrumento-tam",
+    "tipo": "instrumento",
+    "titulo": "Technology Acceptance Model",
+    "descricao": "Modelo teórico de aceitação de tecnologia, frequentemente operacionalizado por escalas de percepção.",
+    "url": "https://doi.org/10.2307/249008",
+    "autores": "Fred D. Davis",
+    "categoria": "Aceitação tecnológica"
+  },
+  {
+    "id": "instrumento-nasatlx",
+    "tipo": "instrumento",
+    "titulo": "NASA Task Load Index",
+    "descricao": "Instrumento multidimensional de carga de trabalho percebida.",
+    "url": "https://humansystems.arc.nasa.gov/groups/tlx/",
+    "autores": "Sandra G. Hart; Lowell E. Staveland",
+    "categoria": "Carga de trabalho"
+  },
+  {
+    "id": "instrumento-attrakdiff",
+    "tipo": "instrumento",
+    "titulo": "AttrakDiff",
+    "descricao": "Questionário de avaliação de qualidade pragmática e hedônica de produtos interativos.",
+    "url": "https://www.attrakdiff.de/",
+    "autores": "Marc Hassenzahl; Michael Burmester; Franz Koller",
+    "categoria": "Experiência do usuário"
+  },
+  {
+    "id": "ferramenta-scispace",
+    "tipo": "ferramenta",
+    "titulo": "SciSpace",
+    "descricao": "Busca e leitura assistida de artigos científicos.",
+    "url": "https://scispace.com/",
+    "categoria": "Literatura"
+  },
+  {
+    "id": "ferramenta-connected",
+    "tipo": "ferramenta",
+    "titulo": "Connected Papers",
+    "descricao": "Mapa visual de artigos relacionados a uma publicação de referência.",
+    "url": "https://www.connectedpapers.com/",
+    "categoria": "Literatura"
+  },
+  {
+    "id": "ferramenta-parsifal",
+    "tipo": "ferramenta",
+    "titulo": "Parsifal",
+    "descricao": "Planejamento e acompanhamento de revisões sistemáticas.",
+    "url": "https://www.parsifal.com.br/",
+    "categoria": "Revisão sistemática"
+  },
+  {
+    "id": "ferramenta-rayyan",
+    "tipo": "ferramenta",
+    "titulo": "Rayyan",
+    "descricao": "Triagem e organização de estudos para revisões.",
+    "url": "https://www.rayyan.ai/",
+    "categoria": "Revisão sistemática"
+  },
+  {
+    "id": "ferramenta-zotero",
+    "tipo": "ferramenta",
+    "titulo": "Zotero",
+    "descricao": "Gerenciamento de referências, PDFs e bibliografias.",
+    "url": "https://www.zotero.org/",
+    "categoria": "Referências"
+  },
+  {
+    "id": "ferramenta-mendeley",
+    "tipo": "ferramenta",
+    "titulo": "Mendeley",
+    "descricao": "Gerenciamento de referências e organização de artigos.",
+    "url": "https://www.mendeley.com/",
+    "categoria": "Referências"
+  },
+  {
+    "id": "ferramenta-overleaf",
+    "tipo": "ferramenta",
+    "titulo": "Overleaf",
+    "descricao": "Editor colaborativo de documentos em LaTeX.",
+    "url": "https://www.overleaf.com/",
+    "categoria": "Escrita científica"
+  },
+  {
+    "id": "ferramenta-figma",
+    "tipo": "ferramenta",
+    "titulo": "Figma",
+    "descricao": "Criação de interfaces, protótipos e elementos gráficos.",
+    "url": "https://www.figma.com/",
+    "categoria": "Design e prototipação"
+  },
+  {
+    "id": "ferramenta-drawio",
+    "tipo": "ferramenta",
+    "titulo": "draw.io",
+    "descricao": "Criação de diagramas e fluxogramas.",
+    "url": "https://www.drawio.com/",
+    "categoria": "Design e prototipação"
+  },
+  {
+    "id": "ferramenta-likert",
+    "tipo": "ferramenta",
+    "titulo": "Likertplot",
+    "descricao": "Gráficos de distribuição de respostas em escalas Likert.",
+    "url": "https://likertplot.com/create",
+    "categoria": "Visualização"
+  },
+  {
+    "id": "ferramenta-jasp",
+    "tipo": "ferramenta",
+    "titulo": "JASP",
+    "descricao": "Análises estatísticas com interface gráfica.",
+    "url": "https://jasp-stats.org/",
+    "categoria": "Estatística"
+  },
+  {
+    "id": "ferramenta-jamovi",
+    "tipo": "ferramenta",
+    "titulo": "jamovi",
+    "descricao": "Software de análise estatística com interface gráfica.",
+    "url": "https://www.jamovi.org/",
+    "categoria": "Estatística"
+  },
+  {
+    "id": "ferramenta-colab",
+    "tipo": "ferramenta",
+    "titulo": "Google Colab",
+    "descricao": "Notebooks Python executados no navegador.",
+    "url": "https://colab.research.google.com/",
+    "categoria": "Programação"
+  },
+  {
+    "id": "ferramenta-vosviewer",
+    "tipo": "ferramenta",
+    "titulo": "VOSviewer",
+    "descricao": "Construção e exploração de redes bibliométricas.",
+    "url": "https://www.vosviewer.com/",
+    "categoria": "Bibliometria"
+  },
+  {
+    "id": "ferramenta-openrefine",
+    "tipo": "ferramenta",
+    "titulo": "OpenRefine",
+    "descricao": "Limpeza e transformação de dados tabulares.",
+    "url": "https://openrefine.org/",
+    "categoria": "Tratamento de dados"
+  },
+  {
+    "id": "ferramenta-plotly",
+    "tipo": "ferramenta",
+    "titulo": "Plotly",
+    "descricao": "Biblioteca para gráficos interativos e visualização de dados.",
+    "url": "https://plotly.com/",
+    "categoria": "Visualização"
+  },
+  {
+    "id": "material-gil",
+    "tipo": "material",
+    "titulo": "Métodos e técnicas de pesquisa social",
+    "descricao": "Obra de referência sobre planejamento, delineamento e técnicas de pesquisa social.",
+    "url": "https://www.kufunda.net/publicdocs/METODOS%20E%20TECNICAS%20DE%20PESQUISA%20SOCIAL%20-%20ANTONIO%20GIL.pdf",
+    "autores": "Antonio Carlos Gil"
+  },
+  {
+    "id": "material-cartaxo",
+    "tipo": "material",
+    "titulo": "Rapid Reviews in Software Engineering",
+    "descricao": "Revisões rápidas voltadas à produção de evidências para problemas práticos.",
+    "url": "https://doi.org/10.1007/978-3-030-32489-6_13",
+    "autores": "Bruno Cartaxo; Gustavo Pinto; Sergio Soares"
+  },
+  {
+    "id": "material-mussi",
+    "tipo": "material",
+    "titulo": "Pressupostos para a elaboração de relato de experiência como conhecimento científico",
+    "descricao": "Pressupostos teóricos e estruturantes para a elaboração de relatos de experiência científicos.",
+    "url": "https://periodicos2.uesb.br/praxis/article/view/9010",
+    "autores": "Ricardo Fraklin de Freitas Mussi; Fabio Fernandes Flores; Cláudio Bispo de Almeida"
+  },
+  {
+    "id": "material-pimentel",
+    "tipo": "material",
+    "titulo": "Design Science Research: fazendo pesquisas científicas rigorosas atreladas ao desenvolvimento de artefatos computacionais projetados para a educação",
+    "descricao": "Capítulo sobre Design Science Research no contexto de artefatos educacionais.",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Mariano Pimentel; Denise Filippo; Flávia Maria Santoro"
+  },
+  {
+    "id": "material-dermeval",
+    "tipo": "material",
+    "titulo": "Mapeamento Sistemático e Revisão Sistemática da Literatura em Informática na Educação",
+    "descricao": "Conceitos e diretrizes para estudos secundários em Informática na Educação.",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Diego Dermeval; Jorge A. P. de M. Coelho; Ig I. Bittencourt"
+  },
+  {
+    "id": "volume-v1",
+    "tipo": "volume",
+    "titulo": "Concepção de Pesquisa",
+    "descricao": "Fundamentos científicos, elaboração de projetos, ética, escrita e divulgação da pesquisa.",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Patricia Jaques; Mariano Pimentel; Sean Siqueira; Ig Ibert Bittencourt",
+    "isbn": "978-85-7669-493-9"
+  },
+  {
+    "id": "capitulo-v1-1",
+    "tipo": "capitulo",
+    "titulo": "Introdução à metodologia de pesquisa científica em informática na educação",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Patricia A. Jaques; Mariano Pimentel; Sean Siqueira; Ig Ibert Bittencourt",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-2",
+    "tipo": "capitulo",
+    "titulo": "A metamorfose do processo de investigação científica",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Marcos Elia",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-3",
+    "tipo": "capitulo",
+    "titulo": "Estrutura do método científico: Por uma epistemologia da Informática na Educação",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Alex Sandro Gomes; Claudia Roberta Araújo Gomes",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-4",
+    "tipo": "capitulo",
+    "titulo": "Classificação dos Tipos de Pesquisa em Informática na Educação",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Alex Sandro Gomes; Claudia Roberta Araújo Gomes",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-5",
+    "tipo": "capitulo",
+    "titulo": "Design Science Research: fazendo pesquisas científicas rigorosas atreladas ao desenvolvimento de artefatos computacionais projetados para a educação",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Mariano Pimentel; Denise Filippo; Flávia Maria Santoro",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-6",
+    "tipo": "capitulo",
+    "titulo": "Elaboração da Pesquisa Científica em Informática na Educação",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Patricia A. Jaques; Mariano Pimentel; Sean Siqueira",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-7",
+    "tipo": "capitulo",
+    "titulo": "Submissão de projeto de pesquisa ao Comitê de Ética: da Plataforma Brasil ao Parecer Consubstanciado",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Cátia de Azevedo Fronza",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-8",
+    "tipo": "capitulo",
+    "titulo": "Escrita Científica Dirigida Por Parágrafos: Noções Básicas para uma Escrita Clara e Concisa",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Rafael de Amorim Silva; Duan P. C. Santos; Nizam Omar; Rosana T. V. Braga",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-9",
+    "tipo": "capitulo",
+    "titulo": "Escrita de uma Dissertação/Tese em Informática na Educação",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Eliseo Reategui",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-10",
+    "tipo": "capitulo",
+    "titulo": "Escrita de um artigo científico em Informática na Educação",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Fabiana Maris Versuti; Julia Zanetti Rocca; Mariano Pimentel; Patricia A. Jaques",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "capitulo-v1-11",
+    "tipo": "capitulo",
+    "titulo": "Apresentação oral de um trabalho científico em Informática na Educação",
+    "descricao": "Concepção de Pesquisa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-1/",
+    "autores": "Eliseo Reategui",
+    "volume": "Concepção de Pesquisa"
+  },
+  {
+    "id": "volume-v2",
+    "tipo": "volume",
+    "titulo": "Abordagem Quantitativa",
+    "descricao": "Experimentos, revisões, questionários, mensuração, estatística, regressão e análise de dados.",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Patricia Jaques; Mariano Pimentel; Sean Siqueira; Ig Ibert Bittencourt",
+    "isbn": "978-85-7669-494-6"
+  },
+  {
+    "id": "capitulo-v2-1",
+    "tipo": "capitulo",
+    "titulo": "Experience Sampling Method (ESM)",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Rosemary Francisco",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-2",
+    "tipo": "capitulo",
+    "titulo": "Delineamentos Experimentais em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Eduardo Aranha; Thiago Reis",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-3",
+    "tipo": "capitulo",
+    "titulo": "Mapeamento Sistemático e Revisão Sistemática da Literatura em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Diego Dermeval; Jorge A. P. de M. Coelho; Ig I. Bittencourt",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-4",
+    "tipo": "capitulo",
+    "titulo": "Estudo longitudinal em Pesquisas em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Aline Campos Reis de Souza; Willian Luís de Oliveira",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-5",
+    "tipo": "capitulo",
+    "titulo": "Mensuração e testes em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "André Luís Alice Raabe; James Roberto Bombasar",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-6",
+    "tipo": "capitulo",
+    "titulo": "Desenvolvimento de questionários e aplicação na pesquisa em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Jorge A. P. M. Coelho; Gustavo H. S. Souza; Josmário Albuquerque",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-7",
+    "tipo": "capitulo",
+    "titulo": "Coleta de dados através de Crowdsourcing em Pesquisas em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Ujwal Gadiraju; Bernardo Pereira Nunes",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-8",
+    "tipo": "capitulo",
+    "titulo": "Teoria de Resposta ao Item",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Ana Liz Souto O. Araújo; Jucelio S. Santos; Monilly Ramos A. Melo; Wilkerson L. Andrade; Dalton D. S. Guerreiro; Jorge Cesar A. de Figueiredo",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-9",
+    "tipo": "capitulo",
+    "titulo": "Introdução à Estatística Descritiva para Pesquisas em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Gilberto Sassi",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-10",
+    "tipo": "capitulo",
+    "titulo": "Introdução à Inferência Estatística para Pesquisas em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Gilberto Sassi",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-11",
+    "tipo": "capitulo",
+    "titulo": "Modelos de Regressão aplicados em pesquisas em Informática na Educação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Danilo Alvares",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "capitulo-v2-12",
+    "tipo": "capitulo",
+    "titulo": "Mineração de dados educacionais: avaliação e interpretação de modelos de classificação",
+    "descricao": "Abordagem Quantitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-2/",
+    "autores": "Cristian Cechinel; Sandro da Silva Camargo",
+    "volume": "Abordagem Quantitativa"
+  },
+  {
+    "id": "volume-v3",
+    "tipo": "volume",
+    "titulo": "Abordagem Qualitativa",
+    "descricao": "Estudo de caso, pesquisa-ação, entrevistas, grupos focais e interpretação de dados qualitativos.",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Mariano Pimentel; Edméa Oliveira dos Santos",
+    "isbn": null
+  },
+  {
+    "id": "capitulo-v3-1",
+    "tipo": "capitulo",
+    "titulo": "Estudo de Caso como método de pesquisa em Informática na Educação",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Jose Aires de Castro Filho; Raquel Santiago Freire; Dennys Leite Maia",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-2",
+    "tipo": "capitulo",
+    "titulo": "Pesquisa-ação: possibilidades para a Informática Educativa",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Denise Filippo; Gianna Roque; Stella Pedrosa",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-3",
+    "tipo": "capitulo",
+    "titulo": "Materialismo Histórico Dialético em pesquisas de Informática na Educação",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Renata Luiza da Costa; Maria Aparecida R. de Souza; Alcides Hermes Thereza Júnior",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-4",
+    "tipo": "capitulo",
+    "titulo": "A entrevista como instrumento de pesquisa científica em Informática na Educação: planejamento, execução e análise",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Carla Leitão",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-5",
+    "tipo": "capitulo",
+    "titulo": "Grupo Focal em Informática na Educação: diálogo, conflito, consenso?",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Eloiza da Silva Gomes de Oliveira; Patricia Ribeiro Vasconcellos",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-6",
+    "tipo": "capitulo",
+    "titulo": "As oficinas como lócus de encontro com o outro: uma abordagem histórico-cultural",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Helenice Mirabelli Cassino Ferreira; Dilton Ribeiro Couto Junior; Maria Luiza Magalhães Bastos Oswald",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-7",
+    "tipo": "capitulo",
+    "titulo": "Análise dialógica do discurso em pesquisas na área da informática na educação",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Elmara Pereira de Souza; Claudia Pinto Pereira; Rosângela Silveira Garcia",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-8",
+    "tipo": "capitulo",
+    "titulo": "Análise hermenêutica: compreendendo a interpretação…",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Leonardo Rangel dos Reis; Jocelma Almeida Rios; Adriana Vieira dos Santos",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-9",
+    "tipo": "capitulo",
+    "titulo": "Análise de Conteúdo: como podemos analisar dados no campo da educação e tecnologias",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Deise Juliana Francisco; Edjane Mikaelly Silva de Azevêdo; Adilson Rocha Ferreira; Alexandre Rodrigues Caitano",
+    "volume": "Abordagem Qualitativa"
+  },
+  {
+    "id": "capitulo-v3-10",
+    "tipo": "capitulo",
+    "titulo": "Ética e pesquisa em Cibercultura: reflexões sobre o tema",
+    "descricao": "Abordagem Qualitativa",
+    "url": "https://ceie.sbc.org.br/metodologia/index.php/livro-3/",
+    "autores": "Rachel Capucho Colacique; Joelma Fabiane Ferreira Almeida",
+    "volume": "Abordagem Qualitativa"
+  }
+]
