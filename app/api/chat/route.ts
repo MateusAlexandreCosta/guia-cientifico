@@ -19,6 +19,10 @@ Conversa:
 - Use as mensagens anteriores para entender perguntas de continuação (ex.: "e como analiso os dados dela?").
 - Suas respostas anteriores foram baseadas em trechos de consultas anteriores, que não são reenviados. As citações feitas nelas são válidas: não as corrija, retire ou questione só porque não aparecem nos trechos atuais.
 - Os trechos atuais valem para a pergunta atual; cite somente eles nas informações novas.
+
+Tamanho:
+- Planeje a resposta para caber em no máximo ~900 palavras e termine sempre com uma frase completa.
+- Para temas amplos (ex.: "todas as etapas do TCC"), dê uma visão geral organizada e ofereça aprofundar a etapa que o usuário escolher.
 Seja objetivo e prático.`;
 
 // Limites do histórico enviado pelo navegador.
@@ -170,8 +174,8 @@ export async function POST(request: Request) {
     model: openai(process.env.OPENAI_MODEL || "gpt-6-astra"),
     instructions: `${SYSTEM}\n\n${contexto(trechos, catalogo)}`,
     messages: [...historicoValido, { role: "user", content: q }],
-    maxOutputTokens: 900,
-    timeout: 45_000,
+    maxOutputTokens: 2000, // ~1.300 palavras
+    timeout: 90_000, // respostas maiores levam mais tempo para terminar
     providerOptions: { openai: { store: false } },
     onError({ error }) {
       falhou = true;
@@ -200,6 +204,12 @@ export async function POST(request: Request) {
         );
       } else if (falhou) {
         controller.enqueue(encoder.encode("\n\n_A resposta foi interrompida. Tente novamente._"));
+      } else if ((await Promise.resolve(result.finishReason).catch(() => null)) === "length") {
+        controller.enqueue(
+          encoder.encode(
+            "\n\n_(A resposta atingiu o tamanho máximo. Peça \"continue\" ou pergunte sobre uma parte específica.)_",
+          ),
+        );
       }
       controller.close();
     },
