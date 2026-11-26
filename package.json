@@ -7,10 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "indexar": "node --env-file=.env.local scripts/indexar.mjs",
-    "avaliar-busca": "node --env-file=.env.local scripts/avaliar-busca.mjs",
+    "indexar": "node --env-file-if-exists=.env.local scripts/indexar.mjs",
+    "avaliar-busca": "node --env-file-if-exists=.env.local scripts/avaliar-busca.mjs",
     "baixar-pdfs": "node scripts/baixar-pdfs.mjs",
-    "preparar": "npm run baixar-pdfs && npm run indexar"
+    "preparar": "npm run baixar-pdfs && npm run indexar",
+    "build:vercel": "npm run preparar && next build"
   },
   "dependencies": {
     "@ai-sdk/openai": "^4.0.122",
@@ -29,5 +30,8 @@
     "eslint-config-next": "16.4.6",
     "typescript": "^5",
     "unpdf": "^1.9.1"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }

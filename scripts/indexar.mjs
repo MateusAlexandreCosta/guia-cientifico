@@ -23,7 +23,7 @@ const SOBREPOSICAO = 250; // repete o final do trecho anterior para não cortar 
 const LOTE_EMBEDDINGS = 150;
 
 if (!process.env.OPENAI_API_KEY) {
-  console.error("Falta OPENAI_API_KEY. Rode com: npm run indexar (lê o .env.local).");
+  console.error("Falta OPENAI_API_KEY: coloque no .env.local (no computador) ou nas Environment Variables (na Vercel).");
   process.exit(1);
 }
 
